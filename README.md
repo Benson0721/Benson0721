@@ -2,8 +2,7 @@
 
 ---
 
-<h2 style="padding-top: 40px; margin: 0px;">🙋About me</h2>
-<hr style="border: none; height: 1px; background-color: #eaeaea;" />
+## 🙋About me
 平時喜歡打遊戲、健身、聽音樂、彈彈吉他<br>
 目前正專注自學前端中，並熱衷於透過AI工具來優化開發效率<br>
 期望能成為不受限於前端，能開發出有人性、有趣、有價值的產品<br>
@@ -15,11 +14,11 @@
 <a href="mailto:benson0721@gmail.com" target="_blank"><img src="./public/gmail.png" alt="gmail" style="width: 30px;"/></a>
 </div>
 
-<h2 style="padding-top: 60px; margin: 0px;">📚Projects</h2>
-<hr style="border: none; height: 1px; background-color: #eaeaea;" />
+## 📚Projects
 
-<h4>⚒️Full Stack (全端)</h4>
-<hr style="border: none; height: 1px; background-color: #eaeaea;" /
+
+### ⚒️Full Stack (全端)
+
 
 <a href="https://github.com/Benson0721/MeowChat_vercel" target="_blank" style="font-size: 20px; font-weight: bold; margin-right: 20px;">🐱MeowChat</a><img style="width: 150px;" src="https://skillicons.dev/icons?i=ts,react,tailwind,mongodb,express" alt="MeowChat" /> <a href="https://meow-chat-vercel.vercel.app" target="_blank" style="font-size: 14px; margin-left: 12px;">Demo</a>
 
@@ -36,8 +35,8 @@
 <p>串接外部API實現字典查詢功能，包含不同的詞性、字義、發音、例句<br>
 並支援單字收藏功能，讓用戶可對收藏的單字進行管理</p>
 
-<h4 style="padding-top: 40px; margin: 0px;">👁️Frontend (純前端)</h4>
-<hr style="border: none; height: 1px; background-color: #eaeaea;" />
+### 👁️Frontend (純前端)
+
 
 <div style="display: flex; align-items: center; justify-content: space-around; gap: 20px;">
 
@@ -54,21 +53,17 @@
 
 </div>
 
-<h2 style="padding-top: 40px; margin: 0px;">🔨Toolbox</h2>
-<hr style="border: none; height: 1px; background-color: #eaeaea;" />
+## 🔨Toolbox
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,scss,git,mongodb,express)](https://skillicons.dev)
 
-<h2 style="padding-top: 60px; margin: 0px;">👨‍💻Dashboard</h2>
-<hr style="border: none; height: 1px; background-color: #eaeaea;" />
+## 👨‍💻Dashboard
 
 ![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benson0721&theme=default)
-
-<div style="display: flex; gap: 20px;">
 
 ![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Benson0721&theme=default&layout=compact)
 
 ![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benson0721&theme=default&layout=compact)
-</div>
 
 
