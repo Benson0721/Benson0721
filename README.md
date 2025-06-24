@@ -50,7 +50,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/Benson0721/Tailwind-meet-landing" target="_blank">
         <strong>📱 Meet-Landing</strong>
-      </a><&nbsp;<a href="https://benson0721.github.io/Tailwind-meet-landing/" target="_blank">Demo</a><br/>
+      </a>&nbsp;<a href="https://benson0721.github.io/Tailwind-meet-landing/" target="_blank">Demo</a><br/>
       <img src="./public/meet.png" width="250px" alt="Meet-landing"/>
     </td>
   </tr>
